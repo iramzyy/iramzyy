@@ -16,19 +16,5 @@
 
 ## About
 - Experienced iOS Engineer with +5 years of experience developing iOS applications around the globe 🌍
-- Community guy who loves being involved in communities, Member at [SwiftCairo](https://github.com/SwiftCairo) 🏄‍♂️
-- Looking for mentorship? You're in luck! Reach out to me, and together we'll navigate your path to success 🚀
-
-
-
-## Skills
--	👨‍💻 Swift, UIKit, SwiftUI
--	⚙️ MVC, MVP, VIPER, VIP-C, MVVM-C, RxSwift, Combine
--	👨‍💻 CoreData, Realm 
--	⚙️ Unit Testing
--	💽 Memory Management, Concurrency 
--	⚙️ Git, GitFlow, CI/CD
--	👨‍💻 Firebase
-- 🧪 Analytics Tools
--	💽 Software Engineering concepts, Data Structures and Algorithms
--	👁️ UI/UX design (Sektch, Figma, Adobe XD)
+- Community guy who loves being involved in communities, [SwiftCairo](https://github.com/SwiftCairo) Lead.
+- Looking for mentorship? You're in luck! [Reach out to me](https://adplist.org/mentors/ahmed-ramzy-Uzve?session=37279-mentorship-session), and together we'll navigate your path to success 🚀
