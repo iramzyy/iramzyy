@@ -1,7 +1,7 @@
 ## Hi there 🚀
 ### I'm Ramzy, Senior iOS Engineer at [Klivvr](https://www.klivvr.com)
 
-<a href="https://twitter.com/iramzy_dev">
+<a href="https://twitter.com/iramzyy">
   <img align="left" alt="Ramzy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/iramzyy/">
