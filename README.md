@@ -8,7 +8,7 @@
   <img align="left" alt="Ramzy's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </a>
-<a href="https://medium.com/@ramzy.2871">
+<a href="https://medium.com/@iramzyy">
   <img align="left" alt="Ramzy's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
